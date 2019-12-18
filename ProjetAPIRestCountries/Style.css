@@ -1,0 +1,59 @@
+
+.images_petit {
+    /*overflow:hidden;*/
+    -webkit-border-radius:60px;
+    -moz-border-radius:60px;
+    border-radius:60px;
+    width:100px;
+    height:100px;
+    display: inline-block;
+    margin: 80 px;
+    border: solid;
+    border-color: darkblue;
+    border-width:2px;
+    /*padding: 10px;*/
+    }
+
+
+    h1
+    {
+      font-size: 32px;
+      text-shadow: -1px -1px RGB(9, 52, 22), 1px 1px #060, -3px 0 4px #000;
+      font-family:Arial, Helvetica, sans-serif;
+      color: RGB(46, 134, 193);
+      padding:16px;
+      font-weight:lighter;
+      /*-moz-box-shadow: 2px 2px 6px rgb(187, 210, 241);  
+      -webkit-box-shadow: 2px 2px 6px rgb(187, 210, 241);  
+      box-shadow:2px 2px 6px rgb(187, 210, 241);  */
+      text-align:center;
+      display:block;
+      margin:10px; 
+    }
+
+    h2{
+
+        text-align:center;
+    }
+
+    p {
+        padding:10px;
+        text-align:center;
+    }
+
+    figcaption {
+        text-align:center;
+    }
+    
+.change {
+background-image: url(https://image.freepik.com/photos-gratuite/nuage-blanc-ciel-bleu_74190-7709.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+#mapid { height: 600px;
+    width : 600px; }
+
+
+    
